@@ -9,7 +9,7 @@ Something missing or broken? Submit a PR with your change! No commercial pitches
 - Azure Service Heatmap :sparkles:: https://azureheatmap.azurewebsites.net/
 - Azure InfoHub :sparkles:: https://azureinfohub.azurewebsites.net/
 - Azure App Servie - ASP.Net Core install status: https://aspnetcoreon.azurewebsites.net/
-- Azure Devops - view installed software on Agents: https://dev.azure.com/{your_tenant}/_settings/agentpools - then click on host type (like "Hosted VS2017")
+- Azure DevOps - view installed software on Agents: https://dev.azure.com/{your_tenant}/_settings/agentpools - then click on host type (like "Hosted VS2017")
 - Azure DevOps Demo Generator: https://azuredevopsdemogenerator.azurewebsites.net/
 - Azure Free Tier - scroll down for always free services: https://azure.microsoft.com/free/
 
