@@ -8,7 +8,7 @@ Something missing or broken? Submit a PR with your change! No commercial pitches
 - Azure updates: https://azure.microsoft.com/updates/
 - Azure Service Heatmap :sparkles:: https://azureheatmap.azurewebsites.net/
 - Azure InfoHub :sparkles:: https://azureinfohub.azurewebsites.net/
-- Azure App Servie - ASP.Net Core install status: https://aspnetcoreon.azurewebsites.net/
+- Azure App Service - ASP.Net Core install status: https://aspnetcoreon.azurewebsites.net/
 - Azure DevOps - view installed software on Agents: https://dev.azure.com/{your_tenant}/_settings/agentpools - then click on host type (like "Hosted VS2017")
 - Azure DevOps Demo Generator: https://azuredevopsdemogenerator.azurewebsites.net/
 - Azure Free Tier - scroll down for always free services: https://azure.microsoft.com/free/
@@ -49,5 +49,6 @@ If you think a blog should go here please raise an issue and community blogs wil
 - Microsoft Learn:
   - Introduction to Azure: https://docs.microsoft.com/learn/azure/
   - All Azure-tagged content: https://docs.microsoft.com/learn/browse/?products=azure
+- IoT School: https://iotschool.microsoft.com/
 - Microsoft Cloud Workshop: https://microsoftcloudworkshop.com/
 - Meetups tagged "Microsoft Azure" :sparkles:: https://www.meetup.com/topics/microsoft-azure/
