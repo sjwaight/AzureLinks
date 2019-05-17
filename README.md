@@ -1,5 +1,5 @@
 # Azure Community Links
-Useful links relating to [Microsoft Azure](https://azure.microsoft.com/). Mixture of official and community-nominated (:sparkles:) content.
+Useful links relating to [Microsoft Azure](https://azure.microsoft.com/). Mixture of official and community-nominated/created (:sparkles:) content.
 
 Something missing or broken? Submit a PR with your change! No commercial pitches please!
 
@@ -19,6 +19,7 @@ Something missing or broken? Submit a PR with your change! No commercial pitches
 - Azure Data Studio (SQL & Postgres): https://docs.microsoft.com/sql/azure-data-studio/download
 - Azure SDKs and CLI tools: https://azure.microsoft.com/downloads/
 - Azure on GitHub: https://github.com/azure
+- Azure Resource Manager (ARM) template visualiser (ARMVIZ) :sparkles:: http://armviz.io/
 - Visual Studio Code: https://code.visualstudio.com/download
 - Azure App: 
   - iOS: https://itunes.apple.com/us/app/microsoft-azure/id1219013620?mt=8
@@ -35,6 +36,9 @@ Something missing or broken? Submit a PR with your change! No commercial pitches
  - Azure Reference Architectures: https://docs.microsoft.com/azure/architecture/reference-architectures/
  - Azure Serverless Community Library :sparkles:: https://serverlesslibrary.net/
  - Azure Resource Manager (ARM) templates library :sparkles:: https://azure.microsoft.com/resources/templates/
+ - Azure App Service Linux Docker Images:
+   - PHP, Ruby, NodeJS and .NET Core: https://github.com/Azure/app-service-builtin-images
+   - Java SE: https://github.com/Azure-App-Service/java | Tomcat: https://github.com/Azure-App-Service/tomcat
  
 ## Blogs
 
