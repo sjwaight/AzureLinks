@@ -50,6 +50,7 @@ If you think a blog should go here please raise an issue and community blogs wil
 
 ## Learning Content
 
+- Azure Tips and Tricks: https://microsoft.github.io/AzureTipsAndTricks/
 - Microsoft Learn:
   - Introduction to Azure: https://docs.microsoft.com/learn/azure/
   - All Azure-tagged content: https://docs.microsoft.com/learn/browse/?products=azure
