@@ -57,3 +57,9 @@ If you think a blog should go here please raise an issue and community blogs wil
 - IoT School: https://iotschool.microsoft.com/
 - Microsoft Cloud Workshop: https://microsoftcloudworkshop.com/
 - Meetups tagged "Microsoft Azure" :sparkles:: https://www.meetup.com/topics/microsoft-azure/
+
+## Video Libraries
+
+- Azure Functions YouTube Channel: https://www.youtube.com/c/AzureFunctions
+- Azure Logic Apps YouTube Channel: https://www.youtube.com/channel/UCbJQweD96Y7n-ebKpdLDJww
+- Azure Friday Playlist: https://www.youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6
