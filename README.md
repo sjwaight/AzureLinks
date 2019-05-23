@@ -65,3 +65,4 @@ If you think a blog should go here please raise an issue and community blogs wil
 - Azure Functions YouTube Channel: https://www.youtube.com/c/AzureFunctions
 - Azure Logic Apps YouTube Channel: https://www.youtube.com/channel/UCbJQweD96Y7n-ebKpdLDJww
 - Azure Friday Playlist: https://www.youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6
+- AzureCasts: https://azurecasts.com/
