@@ -58,7 +58,7 @@ If you think a blog should go here please raise an issue and community blogs wil
 - Microsoft Cloud Workshop: https://microsoftcloudworkshop.com/
 - Meetups tagged "Microsoft Azure" :sparkles:: https://www.meetup.com/topics/microsoft-azure/
 - Microsoft Hands on Labs: https://www.microsoft.com/handsonlabs/
-- Azure Citadel (Hands on & learning in Azure): https://azurecitadel.com/
+- Azure Citadel (Hands on and learning in Azure) :sparkles:: https://azurecitadel.com/
 
 ## Video Libraries
 
