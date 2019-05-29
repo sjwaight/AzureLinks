@@ -8,6 +8,7 @@ Something missing or broken? Submit a PR with your change! No commercial pitches
 - Azure updates: https://azure.microsoft.com/updates/
 - Azure Service Heatmap :sparkles:: https://azureheatmap.azurewebsites.net/
 - Azure InfoHub :sparkles:: https://azureinfohub.azurewebsites.net/
+- Azure Overview :sparkles:: https://azure-overview.com/
 - Azure App Service - ASP.Net Core install status: https://aspnetcoreon.azurewebsites.net/
 - Azure DevOps - view installed software on Agents: https://dev.azure.com/{your_tenant}/_settings/agentpools - then click on host type (like "Hosted VS2017")
 - Azure DevOps Demo Generator: https://azuredevopsdemogenerator.azurewebsites.net/
@@ -27,7 +28,10 @@ Something missing or broken? Submit a PR with your change! No commercial pitches
  
  You'll need a login for Azure to use the following.
  
- - Azure Portal: https://portal.azure.com/ | Preview: https://preview.portal.azure.com/
+ - Azure Portal: 
+   - Standard: https://portal.azure.com/
+   - Preview: https://preview.portal.azure.com/
+   - Download It!: https://portal.azure.com/App/Download/
  - Azure Active Directory Portal: https://aad.portal.azure.com/
  - Azure Cloud Shell: https://shell.azure.com/
  
