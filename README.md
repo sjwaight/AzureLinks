@@ -52,6 +52,7 @@ If you think a blog should go here please raise an issue and community blogs wil
 
 - Azure blog: https://azure.microsoft.com/blog/
 - Azure Active Directory team blog: https://techcommunity.microsoft.com/t5/Azure-Active-Directory-Identity/bg-p/Identity
+- Azure App Service team blog: https://azure.github.io/AppService/
 - Azure Dev Community blog :sparkles:: https://techcommunity.microsoft.com/t5/Azure-Developer-Community-Blog/bg-p/AzureDevCommunityBlog
 
 ## Learning Content
